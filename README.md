@@ -3,13 +3,13 @@ Cyborn Is FaceBook hacking Tool.....
 
 # How to Insatll
 
--> Termux
+Termux
 
-$ pkg install git\n
-$ pkg install python3\n
-$ git clone https://github.com/GhostCerMan/cyborn.git\n
-$ cd cyborn\n
-$ python3 run.py\n
+pkg install git
+pkg install python3
+git clone https://github.com/GhostCerMan/cyborn.git
+cd cyborn
+python3 run.py
 
 You can use hack Facebook.... Google Hacking COMMING SOON.....
 
