@@ -122,8 +122,6 @@ def login():
     while True:
         os.system("clear")
         print(name)
-        print("\033[1;0;40mYou Must Login to Your Account For create a Facebook session")
-        
         print("\033[1;32;40m______________________________\n |")
         mail = str(input(" | Email or Mobile : "))
         pas = str(input(" | Password        : "))
@@ -156,8 +154,6 @@ if no == 1:
     except:
         response_c = "OK"
     print(Response_code)
-    print(" We Can not get information Without Log in Facebook")
-    time.sleep(2)
     login()
     print("\n\033[1;0;40m>> Trying To Log In", end = '' )
     sys.stdout.write("\033[F")
